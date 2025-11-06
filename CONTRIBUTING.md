@@ -16,4 +16,4 @@ Bitte halten Sie sich an die allgemeinen Verhaltensregeln bei der Mitarbeit an P
 Bitte stellen Sie sicher, dass Ihre Änderungen ausreichend getestet sind, bevor Sie eine Pull-Anfrage öffnen. Dadurch tragen Sie zu einem reibungsloseren Integrationsprozess bei.
 
 ## Kontakt
-Bei Fragen oder Anregungen können Sie uns unter [kontakt@neuesprojekt.com] kontaktieren.
+Bei Fragen oder Anregungen können Sie uns unter [kontakt@neuesprojekt.org] kontaktieren.
