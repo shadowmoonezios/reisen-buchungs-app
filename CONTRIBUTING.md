@@ -7,7 +7,7 @@ Vielen Dank, dass Sie daran interessiert sind, zu diesem Projekt beizutragen! Hi
 2. Erstellen Sie einen neuen Branch: `git checkout -b mein-feature`
 3. Nehmen Sie Ihre Änderungen vor und committen Sie diese: `git commit -m 'Fügen Sie ein neues Feature hinzu'`
 4. Pushen Sie den Branch: `git push origin mein-feature`
-5. Öffnen Sie eine Pull-Anfrage und beschreiben Sie Ihre Änderungen im Detail.
+5. Öffnen Sie eine Pull-Anfrage und beschreiben Sie Ihre Änderungen im Detail. Seien Sie so präzise und informativ wie möglich, damit die Überprüfung schneller erfolgt.
 
 ## Verhaltenskodex
 Bitte halten Sie sich an die allgemeinen Verhaltensregeln bei der Mitarbeit an Projekten. Seien Sie respektvoll und hilfsbereit! Wenn Sie Fragen haben, zögern Sie nicht, die Community um Hilfe zu bitten.
