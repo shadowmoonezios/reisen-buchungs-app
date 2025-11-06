@@ -10,4 +10,4 @@ Vielen Dank, dass Sie daran interessiert sind, zu diesem Projekt beizutragen! Hi
 5. Öffnen Sie eine Pull-Anfrage und beschreiben Sie Ihre Änderungen im Detail.
 
 ## Verhaltenskodex
-Bitte halten Sie sich an die allgemeinen Verhaltensregeln bei der Mitarbeit an Projekten. Seien Sie respektvoll und hilfsbereit!
+Bitte halten Sie sich an die allgemeinen Verhaltensregeln bei der Mitarbeit an Projekten. Seien Sie respektvoll und hilfsbereit! Wenn Sie Fragen haben, zögern Sie nicht, die Community um Hilfe zu bitten.
